@@ -13,7 +13,7 @@
     "serverless-offline": "^4.9.4"
   },
   "dependencies": {
-    "aws-sdk": "^2.437.0",
+    "aws-sdk": "^2.814.0",
     "dotenv": "^7.0.0",
     "mongoose": "^5.5.0",
     "nodemailer": "^6.1.0",
